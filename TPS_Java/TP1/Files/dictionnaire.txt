@@ -1,0 +1,6 @@
+cle : hh=> valeur : 2
+cle : hi=> valeur : 2
+cle : myaw=> valeur : 2
+cle : souad=> valeur : 4
+cle : h=> valeur : 6
+cle : asroubi=> valeur : 1

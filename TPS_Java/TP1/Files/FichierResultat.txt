@@ -1,0 +1,4 @@
+-Total word count = 17
+-Total number of characters = 65
+-Total number of sentences = 1
+-Number of paragraphs = 1
